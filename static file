@@ -1,0 +1,8 @@
+/your_project_folder
+├── app.py  # Your Python backend code
+├── static
+│   ├── index.html
+│   ├── styles.css
+│   ├── script.js
+│   └── ...
+└── ...

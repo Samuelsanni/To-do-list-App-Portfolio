@@ -1,0 +1,2 @@
+COPY: /Users/drjas/to-do-app/todo-app
+Flask==2.0.1
