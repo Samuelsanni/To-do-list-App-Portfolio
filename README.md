@@ -1,5 +1,3 @@
-Creating a clear and well-structured README for your project is essential for effective communication. Below is an improved version of your README portfolio, formatted for better readability and understanding:
-
 # Command-Line To-Do List Application
 
 This is a basic command-line to-do list application that allows you to add, remove, and list tasks. It also provides instructions on deploying it on an AWS EC2 instance.
